@@ -7,8 +7,11 @@ Welcome to the Power BI Analytics Repository! This repository contains a collect
 
 
 ## Maven Market BI Dashboard
--Business Details<br/>
+**Business Details**<br/>
 Company Name - Maven Market | Industry - Retail | Sector - Grocery | Operational Presence - Multinational (United States, Canada, Mexico)<br/>
-Model View<br/>
+<br/>
+**Model View**<br/>
+![MV Model View](https://github.com/user-attachments/assets/3a93a382-404e-4806-ba33-3088f1e37419)
+
 
 
