@@ -14,7 +14,7 @@ Company Name - Maven Market | Industry - Retail | Sector - Grocery | Operational
 
 ![Reference Dashboard](https://github.com/user-attachments/assets/40beed98-d969-4f3e-ac07-c68c1fab324b)
 
-**Model View**<br/>
+**Model View**
 
 ![MV Model View](https://github.com/user-attachments/assets/3a93a382-404e-4806-ba33-3088f1e37419)
 
