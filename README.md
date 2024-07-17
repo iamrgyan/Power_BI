@@ -3,3 +3,9 @@ Welcome to the Power BI Analytics Repository! This repository contains a collect
 
 - **[Maven Market BI Dashboard](https://github.com/iamrgyan/Power_BI/blob/main/Maven%20Market%20Dashboard.pbix)**
 
+
+
+
+## Maven Market BI Dashboard
+Business Details
+Company Name - Maven Market | Industry - Retail | Sector - Grocery | Operational Presence - Multinational (United States, Canada, Mexico)
