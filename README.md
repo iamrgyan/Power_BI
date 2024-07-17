@@ -7,5 +7,5 @@ Welcome to the Power BI Analytics Repository! This repository contains a collect
 
 
 ## Maven Market BI Dashboard
-Business Details
+Business Details<br/>
 Company Name - Maven Market | Industry - Retail | Sector - Grocery | Operational Presence - Multinational (United States, Canada, Mexico)
