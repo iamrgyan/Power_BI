@@ -4,6 +4,18 @@
 **[Adventure Works Dashboard](https://github.com/iamrgyan/Power_BI/raw/main/AdventureWorks.pbix)** | **[Maven Market BI Dashboard](https://github.com/iamrgyan/Power_BI/blob/main/Maven%20Market%20Dashboard.pbix)** | **[Coming Soon...](https://github.com/iamrgyan/Power_BI/blob/main/Maven%20Market%20Dashboard.pbix)**
 
 
+## Adventure Works Dashboard
+**Business Details**<br/>
+Business Name - Adventure Works | Industry - Retail | Sector - Sports Goods | Operational Presence - Multinational (Europe, North America, Pacific)<br/>
+<br/>
+**Dashboard**
+
+![image](https://github.com/user-attachments/assets/0094de92-ca2e-421f-9db9-ec2dc92714c5)
+
+**Model View**
+
+![image](https://github.com/user-attachments/assets/dfd1f96f-da76-4cb4-93a5-d0a0e5df0293)
+
 
 
 ## Maven Market BI Dashboard
