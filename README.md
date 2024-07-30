@@ -8,6 +8,7 @@
 Business Name - Phone Now | Industry - Telecom | Operational Presence - Multinational <br/>
 <br/>
 **Dashboard**
+
 ![image](https://github.com/user-attachments/assets/a05679ec-13b1-4dae-ae3a-0928f9fb00d6)
 
 
@@ -16,12 +17,15 @@ Business Name - Phone Now | Industry - Telecom | Operational Presence - Multinat
 Business Name - Phone Now | Industry - BPO | Sector - Telecom<br/>
 <br/>
 **Incoming Calls Dashboard**
+
 ![image](https://github.com/user-attachments/assets/988d9c54-1aeb-4c41-b6e7-b63cde68430b)
 
 **Customer Churn Dashboard**
+
 ![image](https://github.com/user-attachments/assets/2fb9b79b-1b0b-4a88-816d-4267f8969fdc)
 
 **Customer Risk Analysis**
+
 ![image](https://github.com/user-attachments/assets/0e2db721-9766-43a0-8e4e-3c9d1127296c)
 
 
