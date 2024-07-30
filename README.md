@@ -1,7 +1,20 @@
 # Power BI Projects
 
 
-**[Adventure Works Dashboard](https://github.com/iamrgyan/Power_BI/raw/main/AdventureWorks.pbix)** | **[Maven Market BI Dashboard](https://github.com/iamrgyan/Power_BI/raw/main/Maven%20Market%20Dashboard.pbix)** | **[Coming Soon...](https://github.com/iamrgyan/Power_BI/blob/main/Maven%20Market%20Dashboard.pbix)**
+**[Forage-Pwc BPO Incoming Calls ](https://github.com/iamrgyan/Power_BI/raw/main/Forage_Pwc.pbix)** | **[Adventure Works Dashboard](https://github.com/iamrgyan/Power_BI/raw/main/AdventureWorks.pbix)** | **[Maven Market BI Dashboard](https://github.com/iamrgyan/Power_BI/raw/main/Maven%20Market%20Dashboard.pbix)** | **[Coming More...](https://github.com/iamrgyan)**
+
+## Pwc BPO Incoming Calls
+**Business Details**<br/>
+Business Name - Phone Now | Industry - BPO | Sector - Telecom<br/>
+<br/>
+**Incoming Calls Dashboard**
+![image](https://github.com/user-attachments/assets/988d9c54-1aeb-4c41-b6e7-b63cde68430b)
+
+**Customer Churn Dashboard**
+![image](https://github.com/user-attachments/assets/2fb9b79b-1b0b-4a88-816d-4267f8969fdc)
+
+**Customer Risk Analysis**
+![image](https://github.com/user-attachments/assets/0e2db721-9766-43a0-8e4e-3c9d1127296c)
 
 
 ## Adventure Works Dashboard
