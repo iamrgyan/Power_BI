@@ -1,7 +1,15 @@
 # Power BI Projects
 
 
-**[Forage-Pwc BPO Incoming Calls ](https://github.com/iamrgyan/Power_BI/raw/main/Forage_Pwc.pbix)** | **[Adventure Works Dashboard](https://github.com/iamrgyan/Power_BI/raw/main/AdventureWorks.pbix)** | **[Maven Market BI Dashboard](https://github.com/iamrgyan/Power_BI/raw/main/Maven%20Market%20Dashboard.pbix)** | **[Coming More...](https://github.com/iamrgyan)**
+**[Forage-Pwc Diversity & Inclusion](https://github.com/iamrgyan/Power_BI/raw/main/Forage_Pwc_Diversity_Inclusion.pbix)** | **[Forage-Pwc BPO Incoming Calls ](https://github.com/iamrgyan/Power_BI/raw/main/Forage_Pwc.pbix)** | **[Adventure Works Dashboard](https://github.com/iamrgyan/Power_BI/raw/main/AdventureWorks.pbix)** | **[Maven Market BI Dashboard](https://github.com/iamrgyan/Power_BI/raw/main/Maven%20Market%20Dashboard.pbix)** | **[Coming More...](https://github.com/iamrgyan)**
+
+## Pwc Diversity & Inclusion
+**Business Details**<br/>
+Business Name - Phone Now | Industry - Telecom | Operational Presence - Multinational <br/>
+<br/>
+**Dashboard**
+![image](https://github.com/user-attachments/assets/a05679ec-13b1-4dae-ae3a-0928f9fb00d6)
+
 
 ## Pwc BPO Incoming Calls
 **Business Details**<br/>
